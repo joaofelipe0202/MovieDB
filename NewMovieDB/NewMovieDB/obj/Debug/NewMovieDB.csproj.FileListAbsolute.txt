@@ -1,0 +1,7 @@
+C:\Users\Windows 10\source\repos\NewMovieDB\NewMovieDB\bin\Debug\NewMovieDB.exe.config
+C:\Users\Windows 10\source\repos\NewMovieDB\NewMovieDB\bin\Debug\NewMovieDB.exe
+C:\Users\Windows 10\source\repos\NewMovieDB\NewMovieDB\bin\Debug\NewMovieDB.pdb
+C:\Users\Windows 10\source\repos\NewMovieDB\NewMovieDB\obj\Debug\NewMovieDB.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\NewMovieDB\NewMovieDB\obj\Debug\NewMovieDB.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\NewMovieDB\NewMovieDB\obj\Debug\NewMovieDB.exe
+C:\Users\Windows 10\source\repos\NewMovieDB\NewMovieDB\obj\Debug\NewMovieDB.pdb
