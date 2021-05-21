@@ -20,22 +20,22 @@ namespace NewMovieDB
         static void Main(string[] args)
         {
             //Movies
-            //Console.WriteLine("Inserting Movies in the database...");
-            //InsertMovies(ConnectionString, MoviePath);
-            //Console.WriteLine("End of process. Press any key to exit");
-            //Console.ReadKey();
+            Console.WriteLine("Inserting Movies in the database...");
+            InsertMovies(ConnectionString, MoviePath);
+            Console.WriteLine("End of process. Press any key to exit");
+            Console.ReadKey();
 
             //Users
-            //Console.WriteLine("Inserting Users in the database...");
-            //InsertUsers(ConnectionString, UsersPath);
-            //Console.WriteLine("End of process. Press any key to exit");
-            //Console.ReadKey();
+            Console.WriteLine("Inserting Users in the database...");
+            InsertUsers(ConnectionString, UsersPath);
+            Console.WriteLine("End of process. Press any key to exit");
+            Console.ReadKey();
 
             //Ratings
-            //Console.WriteLine("Inserting Ratings in the database...");
-            //InsertRatings(ConnectionString, RatingsPath);
-            //Console.WriteLine("End of process. Press any key to exit");
-            //Console.ReadKey();
+            Console.WriteLine("Inserting Ratings in the database...");
+            InsertRatings(ConnectionString, RatingsPath);
+            Console.WriteLine("End of process. Press any key to exit");
+            Console.ReadKey();
 
             //Update Movies
             Console.WriteLine("Updating Movies table...");
